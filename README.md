@@ -9,7 +9,14 @@ Veritabanı tasarım sürecinde normalizasyon kuralları uygulanarak veri tekrar
 
 Bu çalışma, bir eğitim kurumunun veri yönetim süreçlerini dijital ortama taşıyabilecek ölçeklenebilir ve düzenli bir veritabanı mimarisi sunmayı amaçlamaktadır.
 
-📄 Detaylı proje raporu: Proje PDF dosyasında yer almaktadır.
+Bu projenin detaylı raporu aşağıdaki bağlantılardan erişilebilir:
+
+📄 Google Drive üzerinden görüntülemek için:
+
+📄 Detaylı proje raporu: https://drive.google.com/file/d/1zc0E1d5bXWWKiSOGSsaz5OyiodPmXl8t/view?usp=sharing
+
+📄 GitHub üzerinden indirmek için:
+Eğer GitHub sayfasında PDF ön izleme açılmazsa, dosya sayfasındaki "Download" veya "View Raw" seçeneğini kullanarak dosyayı indirip görüntüleyebilirsiniz.
 
 ## Kullanılan Teknolojiler
 
